@@ -1,0 +1,9 @@
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/dao/FacadeInterf.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/dao/DAOAbstrato.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/comando/ComandoIncluirClassificacao.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/modelo/Classificacao.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/view/JanelaCrud.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/comando/ComandoPrincipal.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/view/JanelaIncluirClassificacao.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/dao/ClassificacaoDAO.java
+/home/klausmerini/eclipse-workspace/ClassificacaoTestNg/src/main/java/com/merini/derbyAgenda/modelo/Comentario.java

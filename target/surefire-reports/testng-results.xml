@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9141" started-at="2024-02-29T10:47:41 BRT" finished-at="2024-02-29T10:47:50 BRT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9141" started-at="2024-02-29T10:47:41 BRT" finished-at="2024-02-29T10:47:50 BRT">
+      <class name="com.merini.classificacao.teste.CT2verificaExclusaoTest">
+        <test-method status="PASS" signature="CT04verificaExclusao()[pri:0, instance:com.merini.classificacao.teste.CT2verificaExclusaoTest@5383967b]" name="CT04verificaExclusao" duration-ms="2072" started-at="2024-02-29T10:47:48 BRT" finished-at="2024-02-29T10:47:50 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT04verificaExclusao -->
+      </class> <!-- com.merini.classificacao.teste.CT2verificaExclusaoTest -->
+      <class name="com.merini.classificacao.teste.CT3verificaEdicaoTest">
+        <test-method status="PASS" signature="CT3verificaEdicao()[pri:0, instance:com.merini.classificacao.teste.CT3verificaEdicaoTest@4fe3c938]" name="CT3verificaEdicao" duration-ms="2150" started-at="2024-02-29T10:47:46 BRT" finished-at="2024-02-29T10:47:48 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT3verificaEdicao -->
+      </class> <!-- com.merini.classificacao.teste.CT3verificaEdicaoTest -->
+      <class name="com.merini.classificacao.teste.CT1VerificaCRUDClassififcacaoTest">
+        <test-method status="PASS" signature="CT1verificaInclusaoBancoTest()[pri:0, instance:com.merini.classificacao.teste.CT1VerificaCRUDClassififcacaoTest@5ec0a365]" name="CT1verificaInclusaoBancoTest" duration-ms="3141" started-at="2024-02-29T10:47:41 BRT" finished-at="2024-02-29T10:47:44 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT1verificaInclusaoBancoTest -->
+        <test-method status="PASS" signature="CT04verificaExclusao()[pri:1, instance:com.merini.classificacao.teste.CT1VerificaCRUDClassififcacaoTest@5ec0a365]" name="CT04verificaExclusao" duration-ms="1355" started-at="2024-02-29T10:47:44 BRT" finished-at="2024-02-29T10:47:45 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT04verificaExclusao -->
+        <test-method status="PASS" signature="CT2verificaRecuperaTodosOsNomesBanco()[pri:2, instance:com.merini.classificacao.teste.CT1VerificaCRUDClassififcacaoTest@5ec0a365]" name="CT2verificaRecuperaTodosOsNomesBanco" duration-ms="367" started-at="2024-02-29T10:47:45 BRT" finished-at="2024-02-29T10:47:46 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT2verificaRecuperaTodosOsNomesBanco -->
+      </class> <!-- com.merini.classificacao.teste.CT1VerificaCRUDClassififcacaoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
